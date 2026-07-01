@@ -1,24 +1,17 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Hello! My name is Caleb Beardall, and I recently entered the tech industry as a Business Intelligence Analyst. I’m currently learning Python to expand my skills in data analytics and strengthen my ability to work with data in more advanced ways. I believe Python will complement my current experience with SQL and business intelligence tools, helping me continue to grow as a data professional.
 
-{Provide a description of your software}
+This simple Hello World project is my first step on that journey. It asks the user for their name and returns a warm, personalized greeting.
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/1b5e87f2766d4428b8523d14705d6df0)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+This basic program was written only using Python.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Python](https://www.python.org/doc/)
+- [Python For Beginners](https://www.python.org/about/gettingstarted/)
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
