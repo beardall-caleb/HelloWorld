@@ -4,7 +4,7 @@ Hello! My name is Caleb Beardall, and I recently entered the tech industry as a 
 
 This simple Hello World project is my first step on that journey. It asks the user for their name and returns a warm, personalized greeting.
 
-[Software Demo Video](https://www.loom.com/share/1b5e87f2766d4428b8523d14705d6df0)
+[Software Demo Video](https://www.loom.com/share/17f898fd5b5f46b7bc2e212c3b1a938c)
 
 # Development Environment
 
